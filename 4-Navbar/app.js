@@ -4,6 +4,7 @@
 // remove - remove class
 // toggle - toggles class
 // testing comment
+// testing comment 2
 
 const navToggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".links");
